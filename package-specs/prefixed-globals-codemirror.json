@@ -1,0 +1,13 @@
+{
+  "name": "prefixed-globals-codemirror",
+  "version": "5.43.0",
+  "description": "CodeMirror with module globals renamed to allow loading in finicky environments",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resourcesco/prefixed-globals.git"
+  },
+  "keywords": [
+    "module-loading",
+    "prefixed-globals"
+  ]
+}

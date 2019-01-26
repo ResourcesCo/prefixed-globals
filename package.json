@@ -1,0 +1,23 @@
+{
+  "name": "prefixed-globals",
+  "version": "1.0.0",
+  "description": "prefix globals used by module loaders to get modules loading in incompatible environments",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resourcesco/prefixed-globals.git"
+  },
+  "keywords": [
+    "module-loading"
+  ],
+  "author": "Benjamin Atkin <ben@benatkin.com> (https://benatkin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resourcesco/prefixed-globals/issues"
+  },
+  "homepage": "https://github.com/resourcesco/prefixed-globals#readme"
+}
